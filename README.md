@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div >
  
  🔭 I’m currently working on **a marketplace**
  
@@ -55,15 +55,23 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div >
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Saifrazzaq1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-     <br/>
-     <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Saifrazzaq1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-     <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifrazzaq1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<table>
+  <tr>
+    <!-- Left Column -->
+    <td align="center">
+      <img width=450 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Saifrazzaq1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+      <br/><br/>
+      <img width=450 src="https://github-readme-stats.vercel.app/api?username=Saifrazzaq1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    </td>
+    <!-- Right Column -->
+    <td align="center">
+      <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifrazzaq1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 <br/><br/>
 
