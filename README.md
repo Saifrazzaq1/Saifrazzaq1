@@ -4,29 +4,31 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mr+Saif!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate Mobile app developer </h3>
 
 <br/>
 
-<div >
+<div  align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+👋 Hi, I'm @Saifrazzaq1, a dedicated React Native Mobile App Developer with a passion for crafting seamless and innovative mobile experiences.
 
+👀 I'm fascinated by the ever-evolving world of mobile app development, particularly in Native app development for Android & IOS with RESts APIs and third-party APIs.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🌱 Currently, I am honing my skills in React Native App development to stay ahead in this dynamic field.
 
+💞️ I am eager to collaborate on exciting projects related to mobile app development. Whether it's building intuitive user interfaces or optimizing app performance, I'm up for the challenge!
+
+📫 Let's connect and discuss potential collaborations. Feel free to reach out to me on:
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:saifrazzaq23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href=" https://www.linkedin.com/in/saif-razzaq-84b09019a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://saifrazzaq1.github.io/saifrazzaq" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
