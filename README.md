@@ -1,91 +1,62 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Saifrazzaq1.Saifrazzaq1" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mr+Saif!;" />
-</h1>
+<h1 align="center">Muhamed Saif</h1>
+<h3 align="center">Mobile Application Developer | React Native | Flutter</h3>
 
-<h3 align="center">A passionate Mobile app developer </h3>
+<p align="center">
+  Building high-performance, user-focused mobile apps for Android and iOS.
+</p>
 
-<br/>
-
-<div  align="center">
- 
-👋 Hi, I'm @Saifrazzaq1, a dedicated React Native Mobile App Developer with a passion for crafting seamless and innovative mobile experiences.
-
-👀 I'm fascinated by the ever-evolving world of mobile app development, particularly in Native app development for Android & IOS with RESts APIs and third-party APIs.
-
-🌱 Currently, I am honing my skills in React Native App development to stay ahead in this dynamic field.
-
-💞️ I am eager to collaborate on exciting projects related to mobile app development. Whether it's building intuitive user interfaces or optimizing app performance, I'm up for the challenge!
-
-📫 Let's connect and discuss potential collaborations. Feel free to reach out to me on:
- </div>
- 
-<div align="center"> 
+<p align="center">
   <a href="mailto:saifrazzaq23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-saifrazzaq23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/saif-razzaq-84b09019a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Saif%20Razzaq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://saifrazzaq1.github.io/saifrazzaq" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-F97316?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
+</p>
+
+---
+
+## About Me
+
+- Mobile app developer with experience delivering production-grade apps using React Native and Flutter.
+- Focused on clean architecture, intuitive UI, and performance optimization.
+- Comfortable integrating REST APIs, third-party SDKs, and platform-specific native features.
+- Open to collaboration on mobile projects, especially products that solve real user problems.
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,js,ts,redux,nodejs,java,cpp,html,css,tailwind,bootstrap,firebase,supabase,mongodb,sqlite,git,github,postman,figma,androidstudio,vscode,webstorm,wordpress,cloudflare,laravel,angular" />
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+---
+
+## GitHub Activity
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,redux,yarn,npm,webstorm,postman,flutter,androidstudio,apple,cpp,cloudflare,dart,tailwind,vscode,windows,wordpress,supabase,sqlite,figma,firebase,git,github,gmail,gradle,ai,java,mongodb,nodejs,pnpm,stackoverflow,svg,ps,linkedin,laravel,htmx,html,css,bootstrap,angular," />
-<!--     <img src="https://skillicons.dev/icons?i=figma,firebase,git,github,gmail,gradle,ai,java,mongodb,nodejs,pnpm,stackoverflow,svg" /><br> -->
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Saifrazzaq1&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saifrazzaq1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 </div>
 
-<br/>
-<hr/>
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifrazzaq1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages" />
+</div>
+
+---
+
+## Contributions
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Saifrazzaq1/Saifrazzaq1/output/github-contribution-grid-snake.svg" /> -->
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-  <br/><br/><br/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<table>
-  <tr>
-    <!-- Left Column -->
-    <td align="center">
-      <img width=450 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Saifrazzaq1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-      <br/><br/>
-      <img width=450 src="https://github-readme-stats.vercel.app/api?username=Saifrazzaq1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    </td>
-    <!-- Right Column -->
-    <td align="center">
-      <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifrazzaq1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
-
-<br/>
