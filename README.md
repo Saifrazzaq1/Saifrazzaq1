@@ -51,13 +51,13 @@
 ## GitHub Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Saifrazzaq1&count_private=true&theme=github_dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saifrazzaq1&count_private=true&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Saifrazzaq1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saifrazzaq1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifrazzaq1&hide=html,css&langs_count=8&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saifrazzaq1&theme=github_dark" alt="Productive Time" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifrazzaq1&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saifrazzaq1&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
