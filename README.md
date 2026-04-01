@@ -30,6 +30,16 @@
 
 ---
 
+## Professional Experience
+
+- **Senior Software Engineer (Freelance)** - Better Accounting Solutions (Sep 2025 - Present)
+- **Software Developer | Mobile App Developer** - Preesoft Pvt Ltd (Feb 2024 - Jan 2026)
+- **Mobile Application Developer (Freelance)** - Upwork (May 2022 - Apr 2024)
+- **Software Developer | React Native Developer** - Falcon Consulting (Feb 2023 - Feb 2024)
+- **Flutter Developer (Part-time)** - Computan (Sep 2022 - Feb 2023)
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -41,22 +51,13 @@
 ## GitHub Activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Saifrazzaq1&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saifrazzaq1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Saifrazzaq1&count_private=true&theme=github_dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saifrazzaq1&count_private=true&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifrazzaq1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifrazzaq1&hide=html,css&langs_count=8&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saifrazzaq1&theme=github_dark" alt="Productive Time" />
 </div>
 
 ---
-
-## Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
