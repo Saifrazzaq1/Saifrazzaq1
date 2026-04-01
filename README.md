@@ -1,8 +1,8 @@
 # Muhamed Saif
-### Senior Software Engineer | Mobile & Full-Stack Developer
+### Senior Software Engineer | React Native & Full-Stack (US Remote)
 
-Building scalable, user-centric digital products across mobile and web platforms.  
-Specialized in React Native, Flutter, React.js/Next.js, Node.js/Nest.js, and API-driven architecture.
+Building scalable, user-centric products across mobile and web platforms for startups and growth-stage teams.  
+Specialized in React Native, Flutter, React.js/Next.js, Node.js/Nest.js, and secure API-driven architecture.
 
 [![Email](https://img.shields.io/badge/Email-saifrazzaq23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifrazzaq23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saif%20Razzaq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-razzaq-84b09019a)
@@ -12,7 +12,7 @@ Specialized in React Native, Flutter, React.js/Next.js, Node.js/Nest.js, and API
 
 ## Professional Summary
 
-Results-driven software engineer with 4+ years of experience delivering production-ready mobile and web applications for startups and international clients. Strong background in React Native, Flutter, React.js/Next.js, Node.js/Nest.js, and MongoDB, with hands-on expertise in secure API architecture, third-party integrations, and app deployment across Google Play and Apple App Store Connect.
+Results-driven software engineer with 4+ years of experience delivering production-ready mobile and web applications for startups and international clients. Strong background in React Native, Flutter, React.js/Next.js, Node.js/Nest.js, and MongoDB, with hands-on expertise in secure API architecture, third-party integrations, and app deployment across Google Play and Apple App Store Connect. I work effectively with remote teams and communicate clearly with both technical and non-technical stakeholders.
 
 ---
 
@@ -23,6 +23,15 @@ Results-driven software engineer with 4+ years of experience delivering producti
 - REST API integration, third-party SDKs, and secure authentication workflows (JWT, OAuth)
 - Scalable backend services, MongoDB data modeling, and cloud-based deployment pipelines
 - Agile collaboration with remote and cross-functional engineering teams
+
+---
+
+## Why Clients & Recruiters Work With Me
+
+- Product mindset: I focus on business goals, not only code.
+- Reliable delivery: I own features from planning to production release.
+- Clear communication: async-friendly updates, proactive problem solving.
+- Quality-first engineering: maintainable architecture, strong debugging, clean UI.
 
 ---
 
@@ -65,6 +74,27 @@ Results-driven software engineer with 4+ years of experience delivering producti
 
 ---
 
+## Career & Skills Snapshot
+
+```mermaid
+timeline
+    title Professional Timeline
+    2022 : Flutter Developer - Computan
+    2023 : React Native Developer - Falcon Consulting
+    2024 : Software Developer - PreeSoft Pvt Ltd
+    2025 : Senior Software Engineer - Better Accounting Solutions
+```
+
+```mermaid
+pie title Skill Focus
+    "Mobile (React Native / Flutter)" : 45
+    "Frontend (React / Next.js)" : 25
+    "Backend (Node / Nest.js)" : 20
+    "Dev Tools & Deployment" : 10
+```
+
+---
+
 ## Education
 
 **BS Computer Science**  
@@ -84,7 +114,7 @@ The University of Lahore (Aug 2019 - Jan 2023)
 
 ## Open To
 
-- Senior Mobile Engineer / React Native Engineer roles
+- US-remote Senior Mobile Engineer / React Native Engineer roles
 - Full-Stack Engineer roles (React/Next + Node/Nest)
-- Remote freelance and contract engagements
+- Long-term freelance and contract engagements
 - Product teams focused on scalable, high-impact platforms
