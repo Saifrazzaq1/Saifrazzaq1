@@ -95,6 +95,21 @@ pie title Skill Focus
 
 ---
 
+## GitHub Highlights
+
+<p>
+  <img src="https://img.shields.io/badge/Total%20Contributions-114-22C55E?style=for-the-badge" alt="Total Contributions" />
+  <img src="https://img.shields.io/github/followers/Saifrazzaq1?style=for-the-badge&logo=github&label=Followers&color=1F6FEB" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/last-commit/Saifrazzaq1/Saifrazzaq1?style=for-the-badge&logo=git&label=Last%20Commit" alt="Last Commit" />
+</p>
+
+<div align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=Saifrazzaq1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saifrazzaq1&theme=github_dark" alt="GitHub Summary Stats" />
+</div>
+
+---
+
 ## Education
 
 **BS Computer Science**  
