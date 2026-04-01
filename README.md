@@ -51,13 +51,11 @@
 ## GitHub Activity
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Saifrazzaq1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saifrazzaq1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Saifrazzaq1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifrazzaq1&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saifrazzaq1&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saifrazzaq1&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
