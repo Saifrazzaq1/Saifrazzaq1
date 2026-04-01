@@ -1,61 +1,90 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Saifrazzaq1.Saifrazzaq1" />
+# Muhamed Saif
+### Senior Software Engineer | Mobile & Full-Stack Developer
 
-<h1 align="center">Muhamed Saif</h1>
-<h3 align="center">Mobile Application Developer | React Native | Flutter</h3>
+Building scalable, user-centric digital products across mobile and web platforms.  
+Specialized in React Native, Flutter, React.js/Next.js, Node.js/Nest.js, and API-driven architecture.
 
-<p align="center">
-  Building high-performance, user-focused mobile apps for Android and iOS.
-</p>
-
-<p align="center">
-  <a href="mailto:saifrazzaq23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saifrazzaq23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/saif-razzaq-84b09019a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Saif%20Razzaq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://saifrazzaq1.github.io/saifrazzaq" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-F97316?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-saifrazzaq23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifrazzaq23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saif%20Razzaq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-razzaq-84b09019a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F97316?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://saifrazzaq1.github.io/saifrazzaq)
 
 ---
 
-## About Me
+## Professional Summary
 
-- Mobile app developer with experience delivering production-grade apps using React Native and Flutter.
-- Focused on clean architecture, intuitive UI, and performance optimization.
-- Comfortable integrating REST APIs, third-party SDKs, and platform-specific native features.
-- Open to collaboration on mobile projects, especially products that solve real user problems.
+Results-driven software engineer with 4+ years of experience delivering production-ready mobile and web applications for startups and international clients. Strong background in React Native, Flutter, React.js/Next.js, Node.js/Nest.js, and MongoDB, with hands-on expertise in secure API architecture, third-party integrations, and app deployment across Google Play and Apple App Store Connect.
+
+---
+
+## Core Expertise
+
+- Cross-platform mobile development with React Native and Flutter
+- Full-stack web development with React.js/Next.js and Node.js/Nest.js
+- REST API integration, third-party SDKs, and secure authentication workflows (JWT, OAuth)
+- Scalable backend services, MongoDB data modeling, and cloud-based deployment pipelines
+- Agile collaboration with remote and cross-functional engineering teams
 
 ---
 
 ## Professional Experience
 
-- **Senior Software Engineer (Freelance)** - Better Accounting Solutions (Sep 2025 - Present)
-- **Software Developer | Mobile App Developer** - Preesoft Pvt Ltd (Feb 2024 - Jan 2026)
-- **Mobile Application Developer (Freelance)** - Upwork (May 2022 - Apr 2024)
-- **Software Developer | React Native Developer** - Falcon Consulting (Feb 2023 - Feb 2024)
-- **Flutter Developer (Part-time)** - Computan (Sep 2022 - Feb 2023)
+### Senior Software Engineer (Freelance) - Better Accounting Solutions
+*Sep 2025 - Present | Remote, United States*
+- Developing CRM-based web and mobile products for US-based clients.
+- Building frontend systems with React.js/Next.js and backend services with Node.js/Nest.js and MongoDB.
+- Designing secure API architecture and integrating Teller, Plaid, and Decision Logic.
+- Delivering end-to-end features from development through deployment in agile remote teams.
+
+### Software Developer | Mobile App Developer - Preesoft Pvt Ltd
+*Feb 2024 - Feb 2026 | Lahore, Pakistan*
+- Delivered scalable iOS and Android applications with React Native.
+- Improved app reliability through robust API integrations and production issue resolution.
+- Supported releases for Google Play Store and Apple App Store Connect.
+
+### Mobile Application Developer (Freelance) - Upwork
+*May 2022 - Apr 2024 | Remote*
+- Built and maintained mobile apps for multiple clients with varying product requirements.
+- Provided end-to-end implementation from planning and development to deployment support.
+
+### Software Developer | React Native Developer - Falcon Consulting
+*Feb 2023 - Feb 2024 | Lahore, Pakistan*
+- Developed cross-platform mobile applications with React Native for Android and iOS.
+
+### Flutter Developer (Part-time) - Computan
+*Sep 2022 - Feb 2023 | Lahore, Pakistan*
+- Contributed to Flutter projects and strengthened mobile engineering fundamentals.
+
+---
+
+## Selected Projects
+
+- **BAS CRM (Multi-tenant Platform):** Built with Next.js, Nest.js, TypeScript, and MongoDB. Implemented modules for client and project management, messaging, Plaid/Stripe integrations, RBAC, and AI-assisted workflows.
+- **MCA Funder CRM:** Developed full-stack deal lifecycle modules with Node.js, Express, MongoDB, and Next.js, including underwriting, ACH flows, reporting, and customizable funder operations.
+- **Ezelogs (Construction Platform):** Contributed to scalable web/backend modules, workflow automation, and third-party integrations for enterprise construction operations.
+- **Dar-e-Arqam App / Ezelogs App / Serendipity:** Delivered React Native mobile apps with Firebase and API integrations, published for real-world users.
+
+---
+
+## Education
+
+**BS Computer Science**  
+The University of Lahore (Aug 2019 - Jan 2023)
 
 ---
 
 ## Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,js,ts,redux,nodejs,java,cpp,html,css,tailwind,bootstrap,firebase,supabase,mongodb,sqlite,git,github,postman,figma,androidstudio,vscode,webstorm,wordpress,cloudflare,laravel,angular" />
-</div>
+**Mobile:** React Native, Flutter, Dart  
+**Frontend:** React.js, Next.js, JavaScript, TypeScript, Redux, HTML, CSS, Tailwind, Bootstrap  
+**Backend:** Node.js, Nest.js, Express.js, REST APIs, WebSockets, Firebase, Supabase  
+**Databases:** MongoDB, SQLite, SQL  
+**Tools:** Git, GitHub, Postman, Android Studio, Xcode, VS Code, Figma, Docker
 
 ---
 
-## GitHub Activity
+## Open To
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Saifrazzaq1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saifrazzaq1&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
+- Senior Mobile Engineer / React Native Engineer roles
+- Full-Stack Engineer roles (React/Next + Node/Nest)
+- Remote freelance and contract engagements
+- Product teams focused on scalable, high-impact platforms
