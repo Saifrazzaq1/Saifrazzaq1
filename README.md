@@ -20,10 +20,11 @@ I build reliable mobile and web products that are fast, scalable, and user-focus
 
 ## What I Deliver
 
-- End-to-end product features from idea to deployment
-- Clean, maintainable code with performance-first architecture
-- Secure API integrations (Plaid, Teller, payments, OAuth/JWT)
-- Clear communication and dependable execution
+- End-to-end product delivery from discovery and development to production release
+- High-performance React Native and Flutter apps with clean, maintainable architecture
+- Robust API and third-party integrations (REST APIs, Firebase, Plaid, Teller, payment gateways)
+- Secure authentication and app workflows (OAuth, JWT, role-based access patterns)
+- Strong debugging, issue resolution, and clear communication with cross-functional teams
 
 ---
 
@@ -49,10 +50,11 @@ I build reliable mobile and web products that are fast, scalable, and user-focus
 
 ## Tech Stack
 
-**Mobile:** React Native, Flutter, Dart  
-**Frontend:** React.js, Next.js, JavaScript, TypeScript, Redux, Tailwind  
-**Backend:** Node.js, Nest.js, Express.js, REST APIs, WebSockets  
-**Data & Tools:** MongoDB, Firebase, Supabase, Git, Postman, Docker
+**Mobile:** React Native, Flutter, Android, iOS, Dart, Deep Linking, Push Notifications, In-App Purchases, Offline Storage  
+**Frontend:** React.js, Next.js, JavaScript, TypeScript, Redux, HTML, CSS, Tailwind, Bootstrap  
+**Backend:** Node.js, Nest.js, Express.js, REST APIs, API Integration, WebSockets (Socket.io), OAuth, JWT  
+**Databases & Cloud:** MongoDB, Firebase, Supabase, SQLite, SQL, Cloudflare  
+**Tools & Platforms:** Git, GitHub, Postman, Android Studio, Xcode, VS Code, Figma, Docker, WordPress
 
 ---
 
